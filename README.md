@@ -63,5 +63,4 @@ such as mobility and holding methods, but conventional implementations are not a
 * power_on.py - Script to turn on Pixel 3a through Monsoon power monitor (Run on client)
 * power_off.py - Script to turn off Pixel 3a through Monsoon power monitor (Run on client)
 
-### Test
 
